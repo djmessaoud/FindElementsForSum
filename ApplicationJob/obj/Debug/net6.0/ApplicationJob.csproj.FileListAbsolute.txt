@@ -1,0 +1,15 @@
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\obj\Debug\net6.0\ApplicationJob.csproj.AssemblyReference.cache
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\obj\Debug\net6.0\ApplicationJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\obj\Debug\net6.0\ApplicationJob.AssemblyInfoInputs.cache
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\obj\Debug\net6.0\ApplicationJob.AssemblyInfo.cs
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\obj\Debug\net6.0\ApplicationJob.csproj.CoreCompileInputs.cache
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\bin\Debug\net6.0\ApplicationJob.exe
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\bin\Debug\net6.0\ApplicationJob.deps.json
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\bin\Debug\net6.0\ApplicationJob.runtimeconfig.json
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\bin\Debug\net6.0\ApplicationJob.dll
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\bin\Debug\net6.0\ref\ApplicationJob.dll
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\bin\Debug\net6.0\ApplicationJob.pdb
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\obj\Debug\net6.0\ApplicationJob.dll
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\obj\Debug\net6.0\ref\ApplicationJob.dll
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\obj\Debug\net6.0\ApplicationJob.pdb
+C:\Users\Sp3nc3r\source\repos\ApplicationJob\ApplicationJob\obj\Debug\net6.0\ApplicationJob.genruntimeconfig.cache
